@@ -2,17 +2,10 @@
 #### I am a Full-stack Developer
 
 #### Technologies and Tools I work with
-- PHP
-- JavaScript
-- Laravel
-- Symfony
-- Vue.js
-- Tailwind
-- Node.js
-- Express.js
-- Docker
-- Git
-
+- Laravel, Symfony, MySql
+- Node.js, Express.js, MongoDB
+- SCSS, SASS, Tailwind, Bootstrap, React, Vue.js
+- Docker, Git
 
 #### Connect with me!
 <a href="https://www.linkedin.com/in/bilalbentoumi">
