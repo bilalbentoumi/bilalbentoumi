@@ -1,9 +1,9 @@
 ### Hi there 👋. My name is Bilal Bentoumi. 
-#### I am a Full-stack Developer
+#### I am a Software Engineer
 
 #### Technologies and Tools I work with
-- Laravel, Symfony, MySql
-- Node.js, Express.js, MongoDB
+- Laravel, Symfony, MySQL
+- Node.js, Express.js, NestJS, MongoDB, Postgres
 - SCSS, SASS, Tailwind, Bootstrap, React, Vue.js
 - Docker, Git
 
